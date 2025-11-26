@@ -1,6 +1,6 @@
 module update-checker-test
 
-go 1.24.3
+go 1.24
 
 require (
 	github.com/golang/mock v1.5.0
